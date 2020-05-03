@@ -1,0 +1,12 @@
+.styleClass{
+    background: #e4f11f;
+    display: inline-block;
+    position: relative;
+    width:100%;
+    color: black;
+}
+
+.styleClass p{
+   text-align: center;
+   margin:0;
+}
